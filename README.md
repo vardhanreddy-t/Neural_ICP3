@@ -13,3 +13,6 @@ We have imported the modules pandas and matplotlib.pyplot and then reading the c
 first we have imported the csv file and then split the dataset of both training set and test set and then fitting Simple Linear Regression to the training set and then predicting the test set values and then calculating mean squared error and then Visualising the Training set results and test set results. Then it displays the graphs of both training set and test set results graph.. Then output is as follows: Training set:
 
 ![image](https://github.com/user-attachments/assets/3bce68bc-b9ba-4a59-a1d6-01f2bee32c56)
+
+![image](https://github.com/user-attachments/assets/f639e8d7-f173-49d2-a1f8-7baf358a827f)
+
